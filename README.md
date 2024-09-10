@@ -1,14 +1,12 @@
 # Automatic-Steel-Defect-Detection
 
-Automatic identification of waviness defects in hot-rolled steel sheets using artificial neural networks and image processing techniques.
-
-## Project Overview
-This project was developed as part of the **Bachelor's Degree in Mechatronics Engineering thesis**.
-
-- **Title**: Identification of Waviness Defects in Hot-Rolled Steel Sheets in a Steel Mill Using Artificial Neural Networks and Image Processing
-- **Author**: Guilherme Lopes Borges
-
 The project focuses on the **automatic identification of waviness defects** in hot-rolled steel sheets using an image-based system to contribute to **industry digitalization** by automating defect detection processes.
+Digital image processing and artificial neural networks were applied.
+
+Developed as part of a **Bachelor's Degree in Mechatronics Engineering**.
+
+- **Thesis Title**: Identification of Waviness Defects in Hot-Rolled Steel Sheets in a Steel Mill Using Artificial Neural Networks and Image Processing
+- **Author**: Guilherme Lopes Borges
 
 ## Demo
 
